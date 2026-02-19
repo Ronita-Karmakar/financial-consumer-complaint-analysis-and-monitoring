@@ -48,47 +48,29 @@ Two dashboard pages were created:
 
 **Key Insights — Overview Dashboard**
 
+**Key Metrics:**
+- 62,520 Total Complaints
+- 93.77% Timely Response Rate
+- 6.23% Delay Rate
+- 1.22 Days Average Processing Time
+
 **Complaint Volume Trends**
-- Complaint volume peaks during July–August.
-- Delay counts increase during high workload periods.
 
-**Weekly Trend Analysis**
-- Sudden spikes correlate with increased delays.
-- Indicates need for operational scaling during peak weeks.
-
-**Product Analysis**
-- Checking accounts generate the highest complaint volume (~25K).
-- Credit cards and credit reporting also significant.
-
-**Response Timeliness**
-- Majority handled within SLA timelines.
-- High-volume issue categories still drive delays.
-
-**Delay Rate by Issue**
+- Checking/Savings & Credit Cards generate highest complaints
+- Complaint spike observed during July–August
+- Specific issue categories show higher delay rates
+- Weekly trend monitoring helps detect operational backlog
 - Overdraft/savings issues show higher delay risk.
 
 <br>
 
 **Key Insights — Delay & Operational Analysis**
 
-**Highest Delay Category**
-Monetary relief cases show highest delay rate.
-
-**Submission Channel Analysis**
-- Web channel dominates (~45K complaints).
-
-**Channel Performance**
-- High timely response rates across channels.
-
-**Processing Time by Issue**
-- Excessive fees require longest resolution time.
-- Advertising issues resolve faster.
-
-**Regional Analysis**
-- California shows highest complaint volume.
-
-**Resolution Outcome Analysis**
-- Monetary relief cases correlate with higher delays.
+- Fee-related complaints take longest to resolve (~5 days)
+- Monetary relief cases have higher delay percentage
+- Web channel dominates complaint submissions
+- California has highest complaint concentration
+- Operational complexity increases delay probability
 
 # Recommendations
 - Improve workflow automation for monetary relief cases.
