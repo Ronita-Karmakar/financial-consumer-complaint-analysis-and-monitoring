@@ -54,7 +54,6 @@ Two dashboard pages were created:
 - 6.23% Delay Rate
 - 1.22 Days Average Processing Time
 
-**Complaint Volume Trends**
 
 - Checking/Savings & Credit Cards generate highest complaints
 - Complaint spike observed during July–August
